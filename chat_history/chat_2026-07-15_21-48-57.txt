@@ -1,0 +1,8 @@
+============================================================
+Groq AI Chatbot Conversation
+============================================================
+
+[21:49:02] User: hi
+
+[21:49:04] AI: It's nice to meet you. Is there something I can help you with or would you like to chat?
+

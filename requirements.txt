@@ -1,0 +1,12 @@
+groq
+python-dotenv
+
+groq
+python-dotenv
+colorama
+
+
+groq
+python-dotenv
+colorama
+streamlit

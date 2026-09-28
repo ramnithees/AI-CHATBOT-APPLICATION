@@ -1,0 +1,20 @@
+============================================================
+Groq AI Chatbot Conversation
+============================================================
+
+[12:25:09] User: hi
+
+[12:25:10] AI: It's nice to meet you. Is there something I can help you with or would you like to chat?
+
+[12:25:14] User: hello
+
+[12:25:15] AI: Hello again. It's great to see you're back. How's your day going so far? Need any assistance or just looking for some conversation?
+
+[12:25:32] User: what is my name?
+
+[12:25:32] AI: I don't know your name, actually. We just started chatting, and you didn't mention it. If you'd like to share your name, I'd be happy to know it!
+
+[12:25:47] User: ok my name is ram
+
+[12:25:48] AI: Nice to meet you, Ram. It's great to have a name to go with our conversation. How's your day going, Ram? Anything exciting happening or any topics you'd like to talk about?
+
